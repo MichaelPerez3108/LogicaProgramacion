@@ -14,6 +14,6 @@ elif cantidad >= 10:
   total = precio - porcentaje40
   print("Por su compra de mas de 10 unidades recibira un descuento del 40% su total es de: $",total)
 else:
-  print("Valor no admitido")
+  print("Valor no admitido...")
 
   
